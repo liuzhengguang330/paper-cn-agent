@@ -1,0 +1,13 @@
+Title: Decarbonizing Buildings Through Heat Pump Deployment
+
+Abstract
+Buildings account for a significant share of global carbon emissions. This paper evaluates how heat pump deployment and building envelope retrofits can reduce emissions while improving energy efficiency.
+
+1. Introduction
+Net zero pathways require deep retrofits in both residential and commercial buildings.
+
+2. Results
+A 35% reduction in carbon emissions was observed in the pilot region between 2020 and 2024.
+
+3. Conclusion
+Heat pump adoption combined with envelope upgrades is a cost-effective strategy.
